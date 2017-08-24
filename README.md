@@ -9,4 +9,4 @@ if-elif-else conditionals, for and while
 loops, lists and tuples, and list
 comprehensions.
 
-Here is my basics Jupyter Notebook.
+Here is my [basics Jupyter Notebook] (https://github.com/tangxx0222/quant-phython/blob/master/python-basics-notebook.ipynb).
